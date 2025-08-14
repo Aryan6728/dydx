@@ -1,6 +1,6 @@
 
 // Game Dimensions
-export const GAME_WIDTH = 480;
+export const GAME_WIDTH = 680;
 export const GAME_HEIGHT = 640;
 
 // Sprite Physics
