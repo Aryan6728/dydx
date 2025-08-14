@@ -1,0 +1,5 @@
+{
+  "name": "Flappy Sprite: dYdX Edition",
+  "description": "A Flappy Bird-style game with a dYdX trading platform theme. Navigate the sprite through obstacles, test your reflexes, and have fun! This game is not affiliated with dYdX.",
+  "requestFramePermissions": []
+}
