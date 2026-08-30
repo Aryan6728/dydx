@@ -19,4 +19,6 @@ u
 3. Run the app:
    `npm run dev`
 
-   at in the your game 
+   at in the your game
+   by Mahesh Vishwakarma 
+
